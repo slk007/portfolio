@@ -7,6 +7,11 @@ Portfolio Website: Shubham Soni
 
 
 Made using:
+
 HTML/CSS
+
 JS
+
 Bootstrap
+
+fontawesome
