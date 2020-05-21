@@ -79,15 +79,26 @@ html, body {
     text-align: center;
 }
 
-
-.resume-btn{
+.about-btn{
+    background-color:white;
+    border-color: green;
     color: green;
-    width: 150 px;
-    height: 40px;
-    padding: 10px 10px;
-    border-radius: 2px;
-    border: 1px solid green;
-    background: center;
+}
+
+.about-btn:hover{
+    background-color: green;
+	border-color: green;
+}
+
+.resume{
+    background-color:white;
+    border-color: green;
+    color: green;
+}
+
+.resume:hover{
+    background-color: green;
+	border-color: green;
 }
 
 .work-button:hover{
@@ -96,32 +107,11 @@ html, body {
     text-decoration: none;
 }
 
-.download-row :hover{
-    background-color: green;
-    color: #f5f5f5;
-    text-decoration: none;
-    /* display: inline; */
-}
 
 .about-row{
     margin-left:50px;
 }
 
-.round-button {
-    display: block;
-    width: 80px;
-    height: 80px;
-    line-height: 80px;
-    border: 2px solid #d65d25;
-    border-radius: 50%;
-    color: #f5f5f5;
-    text-align: center;
-    text-decoration: none;
-    background: green;
-    box-shadow: 0 0 3px purple;
-    font-size: 20px;
-    font-weight: bold;
-}
 
 .card-img-top{
     padding: 20px;
