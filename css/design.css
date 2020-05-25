@@ -130,35 +130,73 @@ html, body {
     color: white;
 }
 
+.Python-container {
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: green;
+}
 .Python {
     width: 70%;
-    background-color: #4CAF50;
+    background-color: green;
 }
 
+
+.Django-container{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #0b61a7;
+}
 .Django {
     width: 70%;
     background-color: #0b61a7;
 }
 
+
+.Algortithms-container{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #2196F3;
+}
 .Algorithms {
     width: 50%;
     background-color: #2196F3;
 }
 
+
+
+.Data-Structure-container{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #f44336;
+}
 .Data-Structure {
     width: 60%;
     background-color: #f44336;
 }
 
+
+.Java-C-container{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #144655;
+}
 .Java-C {
     width: 50%;
     background-color: #144655;
 }
 
+
+.front-end-container{
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #a73477;
+}
 .front-end {
     width: 40%;
     background-color: #a73477;
 }
+
+
 
 .footer-copyright{
     background-color: grey;
