@@ -131,69 +131,69 @@ html, body {
 }
 
 .Python-container {
-    outline-style: solid;
-    outline-width: 2px;
-    outline-color: green;
+    border: 2px solid green;
+    border-radius: 10px;
 }
 .Python {
     width: 70%;
     background-color: green;
+    border-radius: 10px;
 }
 
 
 .Django-container{
-    outline-style: solid;
-    outline-width: 2px;
-    outline-color: #0b61a7;
+    border: 2px solid #0b61a7;
+    border-radius: 10px;
 }
 .Django {
     width: 70%;
     background-color: #0b61a7;
+    border-radius: 10px;
 }
 
 
 .Algortithms-container{
-    outline-style: solid;
-    outline-width: 2px;
-    outline-color: #2196F3;
+    border: 2px solid #2196F3;
+    border-radius: 10px;
 }
 .Algorithms {
     width: 50%;
     background-color: #2196F3;
+    border-radius: 10px;
 }
 
 
 
 .Data-Structure-container{
-    outline-style: solid;
-    outline-width: 2px;
-    outline-color: #f44336;
+    border: 2px solid  #f44336;
+    border-radius: 10px;
 }
 .Data-Structure {
     width: 60%;
     background-color: #f44336;
+    border-radius: 10px;
 }
 
 
 .Java-C-container{
-    outline-style: solid;
-    outline-width: 2px;
-    outline-color: #144655;
+    border: 2px solid #144655;
+    border-radius: 10px;
 }
 .Java-C {
     width: 50%;
     background-color: #144655;
+    border-radius: 10px;
 }
 
 
 .front-end-container{
-    outline-style: solid;
-    outline-width: 2px;
-    outline-color: #a73477;
+    border: 2px solid #a73477;
+    border-radius: 10px;
 }
 .front-end {
     width: 40%;
     background-color: #a73477;
+    border-radius: 10px;
 }
 
 
