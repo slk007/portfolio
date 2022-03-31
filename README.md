@@ -1,15 +1,10 @@
 # portfolio
 
-http://www.findshubhamsoni.com/
+https://www.findshubhamsoni.com/
 
 ![](images/screenshot.png)
 
-
-
-
-
 Portfolio Website: Shubham Soni
-
 
 Made using:
 
