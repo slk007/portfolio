@@ -152,16 +152,37 @@ html, body {
 }
 
 
-.Algortithms-container{
+.Microservices-container{
     border: 2px solid #2196F3;
     border-radius: 10px;
 }
-.Algorithms {
+.Microservices {
     width: 50%;
     background-color: #2196F3;
     border-radius: 10px;
 }
 
+
+.Cloud-container{
+    border: 2px solid #144655;
+    border-radius: 10px;
+}
+.Cloud {
+    width: 50%;
+    background-color: #144655;
+    border-radius: 10px;
+}
+
+
+.database-container{
+    border: 2px solid #a73477;
+    border-radius: 10px;
+}
+.database {
+    width: 60%;
+    background-color: #a73477;
+    border-radius: 10px;
+}
 
 
 .Data-Structure-container{
@@ -174,27 +195,6 @@ html, body {
     border-radius: 10px;
 }
 
-
-.Java-C-container{
-    border: 2px solid #144655;
-    border-radius: 10px;
-}
-.Java-C {
-    width: 50%;
-    background-color: #144655;
-    border-radius: 10px;
-}
-
-
-.front-end-container{
-    border: 2px solid #a73477;
-    border-radius: 10px;
-}
-.front-end {
-    width: 40%;
-    background-color: #a73477;
-    border-radius: 10px;
-}
 
 
 
